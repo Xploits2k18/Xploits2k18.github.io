@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'fjallaone-regular';
+				font-style: normal;
+				src: url('180811080430FjallaOne-Regular.eot');
+				src: local('fjallaone-regular'), url('180811080430FjallaOne-Regular.eot') format('embedded-opentype'), url('180811080430FjallaOne-Regular.woff') format('woff');
+			}
+            
+            .fjallaone-regular{font-family: 'fjallaone-regular' !important;}
+            
+		
