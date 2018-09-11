@@ -1,0 +1,3 @@
+Paper Presentation is all about how you put your topic or present your topic in front of the audience.
+Web Design is the process of collecting ideas,arranging and implementing them, guided for a specific purpose.
+Debugging is a process of finding out bugs/error in the written code, while execution of the code.
